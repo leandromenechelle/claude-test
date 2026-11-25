@@ -1,0 +1,236 @@
+{
+ "voice": "pm_alex",
+ "speed": 0.96,
+ "lead_in": 0.6,
+ "tail": 3.2,
+ "sentences": [
+  {
+   "id": "s1",
+   "sec": "hook",
+   "pause": 0.75,
+   "text": "E se eu te disser que, olhando friamente para o efeito de cada atitude, o gesto que parecia traição empurrou a salvação, enquanto o gesto que parecia proteção quase estragou tudo?"
+  },
+  {
+   "id": "s2",
+   "sec": "hook",
+   "pause": 0.45,
+   "text": "Calma."
+  },
+  {
+   "id": "s3",
+   "sec": "hook",
+   "pause": 0.3,
+   "text": "Não é blasfêmia."
+  },
+  {
+   "id": "s4",
+   "sec": "hook",
+   "pause": 2.4,
+   "text": "É uma pergunta que quase ninguém tem coragem de fazer sobre a história de Judas, Pedro e a cruz."
+  },
+  {
+   "id": "s5",
+   "sec": "trilho",
+   "pause": 0.4,
+   "text": "A gente costuma ler os Evangelhos no piloto automático."
+  },
+  {
+   "id": "s6",
+   "sec": "trilho",
+   "pause": 0.35,
+   "text": "Mas, para o plano da cruz acontecer, a entrega precisava ocorrer."
+  },
+  {
+   "id": "s7",
+   "sec": "trilho",
+   "pause": 0.3,
+   "text": "Jesus sabia quem o entregaria."
+  },
+  {
+   "id": "s8",
+   "sec": "trilho",
+   "pause": 0.5,
+   "text": "As Escrituras apontavam para isso."
+  },
+  {
+   "id": "s9",
+   "sec": "trilho",
+   "pause": 0.5,
+   "text": "Então me explica: se o roteiro precisava ser cumprido, e não podia falhar, Judas tinha mesmo uma segunda via real de escolha?"
+  },
+  {
+   "id": "s10",
+   "sec": "trilho",
+   "pause": 0.55,
+   "text": "Ou ele só tinha uma escolha imaginária, dentro de um trilho que já estava posto?"
+  },
+  {
+   "id": "s11",
+   "sec": "trilho",
+   "pause": 1.2,
+   "text": "Se não havia saída real, julgar Judas como o vilão absoluto, sem perdão, começa a soar bem mais injusto do que o senso comum admite."
+  },
+  {
+   "id": "s12",
+   "sec": "plano",
+   "pause": 0.35,
+   "text": "Na minha leitura, o plano de Deus envolve Judas até o cumprimento da entrega, e das moedas ligadas à profecia do campo."
+  },
+  {
+   "id": "s13",
+   "sec": "plano",
+   "pause": 0.6,
+   "text": "O remorso e o suicídio, depois, já são o colapso humano dele, fora desse trilho, como se vê em Mateus vinte e sete, do versículo três ao dez."
+  },
+  {
+   "id": "s14",
+   "sec": "plano",
+   "pause": 0.5,
+   "text": "E quando olhamos para os três momentos da humanidade de Jesus, as falas dele ganham peso emocional real."
+  },
+  {
+   "id": "s15",
+   "sec": "ceia",
+   "pause": 0.45,
+   "text": "Na ceia, ao apontar que um dos que comem com ele o entregaria, e lançar o alerta grave sobre o destino de quem faz isso."
+  },
+  {
+   "id": "s16",
+   "sec": "bocado",
+   "pause": 1.5,
+   "text": "Ali mesmo, ao dar o bocado e mandar fazer logo o que tinha de ser feito."
+  },
+  {
+   "id": "s17",
+   "sec": "jardim",
+   "pause": 0.4,
+   "text": "E no Getsêmani, ao pedir que, se possível, aquele cálice passasse dele, sem deixar de se submeter à vontade do Pai."
+  },
+  {
+   "id": "s18",
+   "sec": "jardim",
+   "pause": 0.7,
+   "text": "E depois, encarar o beijo da traição."
+  },
+  {
+   "id": "s19",
+   "sec": "tribunal",
+   "pause": 1.2,
+   "text": "Nada disso precisa ser lido como um tribunal frio contra Judas, ou uma ordem para que outros o condenassem pelos séculos seguintes."
+  },
+  {
+   "id": "s20",
+   "sec": "inversao",
+   "pause": 0.5,
+   "text": "Aqui entra a maior ironia da história."
+  },
+  {
+   "id": "s21",
+   "sec": "inversao",
+   "pause": 0.35,
+   "text": "Pedro olha para Jesus e tenta protegê-lo da cruz, dizendo que isso não deveria acontecer com ele."
+  },
+  {
+   "id": "s22",
+   "sec": "inversao",
+   "pause": 0.35,
+   "text": "A intenção parece de afeto, de cuidado."
+  },
+  {
+   "id": "s23",
+   "sec": "inversao",
+   "pause": 0.25,
+   "text": "Mas o efeito prático, se desse certo, impediria a morte na cruz."
+  },
+  {
+   "id": "s24",
+   "sec": "inversao",
+   "pause": 0.4,
+   "text": "E, na lógica da salvação cristã, frustraria o próprio resgate da humanidade."
+  },
+  {
+   "id": "s25",
+   "sec": "inversao",
+   "pause": 0.45,
+   "text": "Não à toa, Jesus reage duro, chamando aquela postura de oposição, e de pedra de tropeço, por pensar apenas em termos humanos."
+  },
+  {
+   "id": "s26",
+   "sec": "inversao",
+   "pause": 0.5,
+   "text": "Já Judas, mesmo traindo e rompendo, acelera a engrenagem que leva ao desfecho necessário."
+  },
+  {
+   "id": "s27",
+   "sec": "inversao",
+   "pause": 0.3,
+   "text": "O que parecia proteção virava obstáculo."
+  },
+  {
+   "id": "s28",
+   "sec": "inversao",
+   "pause": 1.2,
+   "text": "O que parecia ruína empurrava o processo."
+  },
+  {
+   "id": "s29",
+   "sec": "pais",
+   "pause": 0.4,
+   "text": "É igual na relação entre pais e filhos."
+  },
+  {
+   "id": "s30",
+   "sec": "pais",
+   "pause": 0.3,
+   "text": "Existe o pai que não quer que você saia de perto, por medo de que algo ruim aconteça."
+  },
+  {
+   "id": "s31",
+   "sec": "pais",
+   "pause": 0.45,
+   "text": "Mas, tentando te poupar de qualquer dor, te impede de crescer, ganhar autonomia e evoluir."
+  },
+  {
+   "id": "s32",
+   "sec": "pais",
+   "pause": 0.45,
+   "text": "E existe quem te empurra para fora da zona de conforto, mesmo parecendo duro na hora, porque sabe que ninguém amadurece ficando intacto dentro de casa para sempre."
+  },
+  {
+   "id": "s33",
+   "sec": "pais",
+   "pause": 0.3,
+   "text": "Nem todo impulso que parece cuidado ajuda o processo."
+  },
+  {
+   "id": "s34",
+   "sec": "pais",
+   "pause": 1.3,
+   "text": "Nem toda ruptura é só maldade sem efeito."
+  },
+  {
+   "id": "s35",
+   "sec": "final",
+   "pause": 0.3,
+   "text": "Talvez o maior incômodo dessa história não seja o mistério da predestinação."
+  },
+  {
+   "id": "s36",
+   "sec": "final",
+   "pause": 0.8,
+   "text": "Seja o nosso impulso de transformar Judas num rótulo eterno de imperdoável, esquecendo a humanidade de quem sofreu, a ironia de quem tentou travar o caminho, e o peso de quem ficou com a parte mais suja da engrenagem."
+  },
+  {
+   "id": "s37",
+   "sec": "final",
+   "pause": 0.5,
+   "text": "E você?"
+  },
+  {
+   "id": "s38",
+   "sec": "final",
+   "pause": 0.0,
+   "text": "Acha que o peso maior recai sobre a intenção de quem age, ou sobre o efeito que aquilo gera na história?"
+  }
+ ]
+}
